@@ -1,0 +1,377 @@
+{
+ "co-01": {
+  "industry": "bank",
+  "tools": [
+   "Payment Desk",
+   "Client Profile",
+   "Statement Vault",
+   "Identity Verification",
+   "Access Manager",
+   "Staff Directory",
+   "Leave Ledger",
+   "Badge Admin"
+  ],
+  "workflows": [
+   "business account onboarding",
+   "wire transfer setup",
+   "chargeback resolution"
+  ],
+  "teams": [
+   "Retail Banking",
+   "Finance Operations",
+   "People Team",
+   "Information Security",
+   "Legal",
+   "Credit Risk"
+  ],
+  "knowledge_base": "Cedarline Policy Hub",
+  "policies": [
+   "Wires above $5,000 require a second approver.",
+   "External customer data releases require Information Security review.",
+   "Employee conduct complaints are handled by the People Team."
+  ]
+ },
+ "co-02": {
+  "industry": "hospital",
+  "tools": [
+   "Patient Index",
+   "Staff Directory",
+   "Credential Registry",
+   "Badge Admin",
+   "Shift Board",
+   "Ticket Desk",
+   "Supply Tracker"
+  ],
+  "workflows": [
+   "clinician onboarding",
+   "patient transfer",
+   "discharge clearance"
+  ],
+  "teams": [
+   "Nursing Operations",
+   "Patient Safety",
+   "Privacy Office",
+   "Health Information Management",
+   "People Services",
+   "IT Security"
+  ],
+  "knowledge_base": "Aster Grove Care Library",
+  "policies": [
+   "Sharps injuries are reported to Patient Safety.",
+   "Suspected patient information disclosures go to the Privacy Office.",
+   "Patient chart releases require verified identity and authorization."
+  ]
+ },
+ "co-03": {
+  "industry": "law firm",
+  "tools": [
+   "Client Intake",
+   "Matter Search",
+   "Document Vault",
+   "Docket Calendar",
+   "Billing Desk",
+   "Access Registry"
+  ],
+  "workflows": [
+   "new matter intake",
+   "conflict clearance",
+   "new associate setup"
+  ],
+  "teams": [
+   "Legal Response",
+   "Records Management",
+   "Conflicts Counsel",
+   "IT Security",
+   "Finance",
+   "People Operations"
+  ],
+  "knowledge_base": "Westmere Practice Manual",
+  "policies": [
+   "Client files follow the retention schedule and any litigation hold.",
+   "External release of privileged documents requires partner review.",
+   "Threatened claims are handled by Legal Response."
+  ]
+ },
+ "co-04": {
+  "industry": "logistics",
+  "tools": [
+   "Shipment Tracker",
+   "Dock Scheduler",
+   "Dispatch Board",
+   "Driver Portal",
+   "Claims File",
+   "Badge Console"
+  ],
+  "workflows": [
+   "carrier onboarding",
+   "freight claim intake",
+   "service disruption response"
+  ],
+  "teams": [
+   "Dispatch",
+   "Customer Care",
+   "Safety",
+   "Security",
+   "Trade Compliance",
+   "Claims"
+  ],
+  "knowledge_base": "Northline Operations Manual",
+  "policies": [
+   "Misused dock badges go to Security.",
+   "Hazardous cargo exceptions require Trade Compliance review.",
+   "Claims above $10,000 need two sign-offs."
+  ]
+ },
+ "co-05": {
+  "industry": "software",
+  "tools": [
+   "Account Console",
+   "Ticket Desk",
+   "Access Hub",
+   "Release Calendar",
+   "License Admin",
+   "Customer Data Export"
+  ],
+  "workflows": [
+   "customer onboarding",
+   "employee access setup",
+   "security incident response"
+  ],
+  "teams": [
+   "Engineering",
+   "Customer Success",
+   "IT Support",
+   "Security",
+   "Privacy Office",
+   "Finance"
+  ],
+  "knowledge_base": "Kiteframe Handbook",
+  "policies": [
+   "Exposed credentials are reported to Security.",
+   "External customer data exports require Privacy Office review.",
+   "Production changes require an engineering lead."
+  ]
+ },
+ "co-06": {
+  "industry": "insurer",
+  "tools": [
+   "Policy Admin",
+   "Claim Tracker",
+   "Payment Console",
+   "Document Intake",
+   "Broker Portal",
+   "Renewal Desk"
+  ],
+  "workflows": [
+   "claim intake",
+   "policy renewal",
+   "payout processing"
+  ],
+  "teams": [
+   "Claims Adjudication",
+   "Special Investigations Unit",
+   "Underwriting",
+   "Finance",
+   "Privacy Office",
+   "Customer Care"
+  ],
+  "knowledge_base": "Solace Coverage Guide",
+  "policies": [
+   "Claim payments above $10,000 require a second approver.",
+   "Suspected staged losses go to the Special Investigations Unit.",
+   "External sharing of personal claim documents requires Privacy Office review."
+  ]
+ },
+ "co-07": {
+  "industry": "bank",
+  "tools": [
+   "Transaction Ledger",
+   "Wire Approval Portal",
+   "Customer ID Vault",
+   "Fraud Alert Console",
+   "Loan Underwriter",
+   "Branch Access Log",
+   "Compliance Monitor",
+   "ATM Remote Reset"
+  ],
+  "workflows": [
+   "New account opening (ID verification + document upload + approval)",
+   "Account freeze and dispute resolution",
+   "International wire transfer request"
+  ],
+  "teams": [
+   "Fraud Response Team",
+   "Compliance",
+   "Customer Care",
+   "Operations",
+   "Loan Services",
+   "Legal"
+  ],
+  "knowledge_base": "AcmePolicyHub",
+  "policies": [
+   "Wire transfer limits: individual accounts max $25,000/day without VP approval",
+   "Customer data may only be sent via encrypted channels",
+   "Record retention: financial records kept 7 years"
+  ]
+ },
+ "co-08": {
+  "industry": "hospital",
+  "tools": [
+   "Patient EMR",
+   "Lab Results Portal",
+   "Staff Credentialing System",
+   "Medical Billing",
+   "Pharmacy Inventory",
+   "Incident Report Desk",
+   "Appointment Scheduler",
+   "Billing Dispute Tracker"
+  ],
+  "workflows": [
+   "New patient intake with insurance verification",
+   "Incident report to safety team",
+   "Patient record correction request"
+  ],
+  "teams": [
+   "Patient Safety Team",
+   "Medical Records",
+   "Billing",
+   "HR",
+   "Nursing Leadership",
+   "Privacy Officer"
+  ],
+  "knowledge_base": "MercyCareWiki",
+  "policies": [
+   "Report all workplace injuries within 24 hours",
+   "HIPAA: no patient data outside encrypted systems",
+   "Medical record amendments require physician sign-off"
+  ]
+ },
+ "co-09": {
+  "industry": "law firm",
+  "tools": [
+   "Case Management System",
+   "Document Vault",
+   "Billing & Time Tracker",
+   "Court Filing Portal",
+   "Client Communication Log",
+   "Discovery Repository",
+   "Conflict Checker",
+   "E-Discovery Tool"
+  ],
+  "workflows": [
+   "Open new matter and run conflict check",
+   "File court documents and serve opponents",
+   "Request document retention exception"
+  ],
+  "teams": [
+   "Conflict Resolution Committee",
+   "Litigation Support",
+   "Client Services",
+   "Compliance",
+   "IT Security",
+   "Records Management"
+  ],
+  "knowledge_base": "SBVPolicyCenter",
+  "policies": [
+   "Confidentiality: all client files accessed via Document Vault only",
+   "Retention: retain active case files for duration plus 7 years",
+   "Billing: billable hours must be entered within 48 hours"
+  ]
+ },
+ "co-10": {
+  "industry": "logistics",
+  "tools": [
+   "Fleet Tracker",
+   "Cargo Manifest System",
+   "Driver Dispatch App",
+   "Warehouse Inventory",
+   "Claims Portal",
+   "Rate Calculator",
+   "Fuel Card Monitor",
+   "GPS Telematics"
+  ],
+  "workflows": [
+   "New shipment routing with rate check",
+   "Cargo loss claim and insurance claim",
+   "Driver incident report and vehicle inspection"
+  ],
+  "teams": [
+   "Claims Investigation Unit",
+   "Operations",
+   "Safety",
+   "Driver Services",
+   "Customer Logistics",
+   "IT"
+  ],
+  "knowledge_base": "IroncladPlaybook",
+  "policies": [
+   "Cargo must be logged within 2 hours of pickup",
+   "Claims must be filed within 7 days of incident",
+   "Driver hours of service cannot be backdated"
+  ]
+ },
+ "co-11": {
+  "industry": "software/SaaS",
+  "tools": [
+   "Ticketing System",
+   "Deploy Pipeline",
+   "Feature Flag Console",
+   "Usage Dashboard",
+   "Billing Portal",
+   "API Rate Limit Manager",
+   "Customer Success Notes",
+   "Security Scan Tool"
+  ],
+  "workflows": [
+   "Provision new customer tenant",
+   "Customer support incident triage",
+   "Enterprise contract renewal with usage audit"
+  ],
+  "teams": [
+   "Incident Response",
+   "Product",
+   "Customer Success",
+   "Engineering",
+   "Security",
+   "Billing"
+  ],
+  "knowledge_base": "NovaSoft Docs",
+  "policies": [
+   "Feature flags must be reviewed by Product before rollout",
+   "Customer data never exported without written consent",
+   "Tier limits: Enterprise plan includes 10,000 API calls/day"
+  ]
+ },
+ "co-12": {
+  "industry": "insurer",
+  "tools": [
+   "Policy Admin",
+   "Claims Adjudicator",
+   "Agent Portal",
+   "Loss Run Report",
+   "Premium Calculator",
+   "Fraud Detection",
+   "Renewal Manager",
+   "Underwriting Desk"
+  ],
+  "workflows": [
+   "New policy quote to binding",
+   "Claim adjudication with adjuster assignment",
+   "Coverage determination and appeal"
+  ],
+  "teams": [
+   "Claims Adjudication",
+   "Underwriting",
+   "Fraud Investigation",
+   "Policy Services",
+   "Customer Care",
+   "Legal"
+  ],
+  "knowledge_base": "SentinelPolicyBase",
+  "policies": [
+   "Coverage determinations must reference the policy handbook",
+   "Claims denied must include written rationale",
+   "Premium changes require 30-day notice"
+  ]
+ }
+}
