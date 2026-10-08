@@ -11,6 +11,9 @@ Most routing benchmarks ask whether a model can pick the right tool. This one al
 
 Author: Yashwant, Airavat AI.
 
+- Code and scorer: https://github.com/yashwant0906/jalebi-decision-bench
+- Dataset card: https://huggingface.co/datasets/Airavat-ai/jalebi-decision-bench
+
 ## The task
 
 For each item the model sees a company context and one request, and must choose exactly one route:
